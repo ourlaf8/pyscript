@@ -1,0 +1,6 @@
+
+        [console_scripts]
+        devopsinit=scripts.devopsinit:cli
+        devopsci=scripts.devopsci:cli
+        devopscd=scripts.devopscd:cli
+    
